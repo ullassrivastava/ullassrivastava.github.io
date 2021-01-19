@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics | Ullas Srivastava</title>
+    <link>ullassrivastava.github.io/tag/data-analytics/</link>
+      <atom:link href="ullassrivastava.github.io/tag/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analytics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 23:02:02 -0500</lastBuildDate>
+    <image>
+      <url>/ullassrivastava.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Analytics</title>
+      <link>ullassrivastava.github.io/tag/data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Defraud (R)</title>
+      <link>ullassrivastava.github.io/project/defraud/</link>
+      <pubDate>Mon, 18 Jan 2021 23:02:02 -0500</pubDate>
+      <guid>ullassrivastava.github.io/project/defraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persona Modelling (R, SQL)</title>
+      <link>ullassrivastava.github.io/project/persona_modelling/</link>
+      <pubDate>Mon, 18 Jan 2021 21:55:08 -0500</pubDate>
+      <guid>ullassrivastava.github.io/project/persona_modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube Trending Video Content Strategy (R, SQL, Tableau)</title>
+      <link>ullassrivastava.github.io/project/youtube/</link>
+      <pubDate>Mon, 18 Jan 2021 21:55:08 -0500</pubDate>
+      <guid>ullassrivastava.github.io/project/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
