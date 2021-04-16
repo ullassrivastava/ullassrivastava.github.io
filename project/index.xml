@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ullas Srivastava</title>
-    <link>ullassrivastava.github.io/project/</link>
-      <atom:link href="ullassrivastava.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://ullassrivastava.github.io/project/</link>
+      <atom:link href="http://ullassrivastava.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 23:43:40 -0500</lastBuildDate>
     <image>
-      <url>/ullassrivastava.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>http://ullassrivastava.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>ullassrivastava.github.io/project/</link>
+      <link>http://ullassrivastava.github.io/project/</link>
     </image>
     
     <item>
       <title>Employent Now- Reviewing Employment of an Emplying Agency (Power BI)</title>
-      <link>ullassrivastava.github.io/project/emp_now/</link>
+      <link>http://ullassrivastava.github.io/project/emp_now/</link>
       <pubDate>Mon, 18 Jan 2021 23:43:40 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/emp_now/</guid>
+      <guid>http://ullassrivastava.github.io/project/emp_now/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional Sales Review (Tableau)</title>
-      <link>ullassrivastava.github.io/project/sales_review/</link>
+      <link>http://ullassrivastava.github.io/project/sales_review/</link>
       <pubDate>Mon, 18 Jan 2021 23:26:00 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/sales_review/</guid>
+      <guid>http://ullassrivastava.github.io/project/sales_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defraud (R)</title>
-      <link>ullassrivastava.github.io/project/defraud/</link>
+      <link>http://ullassrivastava.github.io/project/defraud/</link>
       <pubDate>Mon, 18 Jan 2021 23:02:02 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/defraud/</guid>
+      <guid>http://ullassrivastava.github.io/project/defraud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World Covid Healthcheck</title>
-      <link>ullassrivastava.github.io/project/covid/</link>
+      <link>http://ullassrivastava.github.io/project/covid/</link>
       <pubDate>Mon, 18 Jan 2021 22:10:30 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/covid/</guid>
+      <guid>http://ullassrivastava.github.io/project/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persona Modelling (R, SQL)</title>
-      <link>ullassrivastava.github.io/project/persona_modelling/</link>
+      <link>http://ullassrivastava.github.io/project/persona_modelling/</link>
       <pubDate>Mon, 18 Jan 2021 21:55:08 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/persona_modelling/</guid>
+      <guid>http://ullassrivastava.github.io/project/persona_modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube Trending Video Content Strategy (R, SQL, Tableau)</title>
-      <link>ullassrivastava.github.io/project/youtube/</link>
+      <link>http://ullassrivastava.github.io/project/youtube/</link>
       <pubDate>Mon, 18 Jan 2021 21:55:08 -0500</pubDate>
-      <guid>ullassrivastava.github.io/project/youtube/</guid>
+      <guid>http://ullassrivastava.github.io/project/youtube/</guid>
       <description></description>
     </item>
     

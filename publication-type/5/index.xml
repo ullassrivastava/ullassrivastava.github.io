@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Ullas Srivastava</title>
-    <link>ullassrivastava.github.io/publication-type/5/</link>
-      <atom:link href="ullassrivastava.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://ullassrivastava.github.io/publication-type/5/</link>
+      <atom:link href="http://ullassrivastava.github.io/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ullassrivastava.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>http://ullassrivastava.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>5</title>
-      <link>ullassrivastava.github.io/publication-type/5/</link>
+      <link>http://ullassrivastava.github.io/publication-type/5/</link>
     </image>
     
     <item>
       <title>For All the Indian Students off to the US Universities</title>
-      <link>ullassrivastava.github.io/publication/example/</link>
+      <link>http://ullassrivastava.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>ullassrivastava.github.io/publication/example/</guid>
+      <guid>http://ullassrivastava.github.io/publication/example/</guid>
       <description></description>
     </item>
     
